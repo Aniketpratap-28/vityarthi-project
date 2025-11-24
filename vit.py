@@ -1,7 +1,7 @@
 while True:
-    print("\n Personal Health Logger ")
-    print("1. Add Health Entry")
-    print("2. View All Entries")
+    print("\n Personal health logger ")
+    print("1. Add health entry")
+    print("2. View all entries")
     print("3. Exit")
 
     choice = input("Enter your choice: ")
@@ -39,3 +39,4 @@ while True:
 
     else:
         print("Invalid choice, please try again.")
+
